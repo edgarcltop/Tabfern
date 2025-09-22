@@ -2,11 +2,7 @@
 
 [![Join the chat at https://gitter.im/TabFern/Lobby](https://badges.gitter.im/TabFern/Lobby.svg)](https://gitter.im/TabFern/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
-## Developing on TabFern
 
- - For more information on developing TabFern, see
-   [CONTRIBUTING.md](CONTRIBUTING.md).
- - See [INTERNALS.md](INTERNALS.md) for details of how the code is structured.
 
 **Update 2019-09-30** Please do not use any code from Stack Overflow &mdash;
 see [CONTRIBUTING.md](CONTRIBUTING.md) for details.
@@ -67,18 +63,3 @@ see [CONTRIBUTING.md](CONTRIBUTING.md) for details.
  - [jquery](https://jquery.com/)
  - [Barnsley fern generator](http://www.chradams.co.uk/fern/maker.html)
  - [famfamfam Silk icons](http://www.famfamfam.com/lab/icons/silk/)
-
-# Legal
-
-Copyright (c) 2017--2019 Chris White and contributors.  CC-BY-SA 3.0, or any
-later version.  See [LICENSE.md](LICENSE.md) for details, which are controlling
-in case of any difference between that file and this section.
-
-Contributors are listed in [LICENSE.md](LICENSE.md).
-
-Originally inspired by
-[Tabs Outliner](https://chrome.google.com/webstore/detail/tabs-outliner/eggkanocgddhmamlbiijnphhppkpkmkl)
-by Vladyslav Volovyk.  However, TabFern is not derived from Tabs Outliner.
-TabFern is not affiliated in any way with Vladyslav or Tabs Outliner.
-
-![logo](https://raw.githubusercontent.com/cxw42/TabFern/gh-pages/assets/img/fern128.png)
