@@ -2,11 +2,6 @@
 
 [![Join the chat at https://gitter.im/TabFern/Lobby](https://badges.gitter.im/TabFern/Lobby.svg)](https://gitter.im/TabFern/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
-
-
-**Update 2019-09-30** Please do not use any code from Stack Overflow &mdash;
-see [CONTRIBUTING.md](CONTRIBUTING.md) for details.
-
 ## What is TabFern?
 
 ![screenshot](https://raw.githubusercontent.com/cxw42/TabFern/gh-pages/assets/img/screenshot.png)
